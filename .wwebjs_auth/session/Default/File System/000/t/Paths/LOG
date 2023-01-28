@@ -1,2 +1,4 @@
-2023/01/23-19:15:53.281 1288 Creating DB C:\Users\GOD\Desktop\wp-btn\bot-zdg\.wwebjs_auth\session\Default\File System\000\t\Paths since it was missing.
-2023/01/23-19:15:53.602 1288 Reusing MANIFEST C:\Users\GOD\Desktop\wp-btn\bot-zdg\.wwebjs_auth\session\Default\File System\000\t\Paths/MANIFEST-000001
+2023/01/25-15:58:07.607 12fc Creating DB C:\Users\GOD\Desktop\wp-btn\bot-zdg\.wwebjs_auth\session\Default\File System\000\t\Paths since it was missing.
+2023/01/25-15:58:07.946 12fc Reusing MANIFEST C:\Users\GOD\Desktop\wp-btn\bot-zdg\.wwebjs_auth\session\Default\File System\000\t\Paths/MANIFEST-000001
+2023/01/25-15:58:07.946 12fc Recovering log #3
+2023/01/25-15:58:07.947 12fc Reusing old log C:\Users\GOD\Desktop\wp-btn\bot-zdg\.wwebjs_auth\session\Default\File System\000\t\Paths/000003.log 
